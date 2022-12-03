@@ -20,7 +20,7 @@ Landers. If you zoom out, if you have not selected your quest, you get back to
 a proposed quest on a larger area. You can use the menu to adjust the quest
 mode. That will restart the quest. The mode dictates the infos that will be
 presented for searching the zone. That can be a combination of name, flag or
-other specific information.
+other specific informations if available for the zone choosen for the quest.
 
 ## Saving you achievements
 
